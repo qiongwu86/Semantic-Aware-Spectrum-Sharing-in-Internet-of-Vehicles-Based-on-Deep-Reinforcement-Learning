@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\pythondemo\\MARLspectrumSharingV2X3.0\\model/sarl_model_for_DDQN_with_sc/lamda0.9_lr0.001_newpowerlist/agent"
+all_model_checkpoint_paths: "G:\\pythondemo\\MARLspectrumSharingV2X3.0\\model/sarl_model_for_DDQN_with_sc/lamda0.9_lr0.001_newpowerlist/agent"

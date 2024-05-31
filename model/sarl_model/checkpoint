@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\pythondemo\\MARLspectrumSharingV2X3.0\\model/sarl_model/agent"
+all_model_checkpoint_paths: "G:\\pythondemo\\MARLspectrumSharingV2X3.0\\model/sarl_model/agent"
